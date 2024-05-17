@@ -12,7 +12,7 @@
 ## customers
 
 - [X] get list of customers
-- [X] get single customer
+- [ ] get single customer
 
 ## orders
 
