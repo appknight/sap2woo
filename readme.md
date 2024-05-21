@@ -18,6 +18,7 @@
 
 - [X] get list of orders
 - [X] get single order
+- [X] change order status
 
 ## products
 
